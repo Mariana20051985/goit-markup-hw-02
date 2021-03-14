@@ -109,9 +109,11 @@ body {
 }
 
 /* секція героя (загрузити послугу)*/
+.section-hero{
+  background: #2f303a;
+}
 .section-hero-title {
   color: #ffffff;
-  background: #2f303a;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
